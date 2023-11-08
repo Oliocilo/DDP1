@@ -55,3 +55,4 @@ else:
 
 #Data
 #print("Nama \t:",nama,"\nMatpel \t:",matpel,"\nNilai \t:",nilai,"\nGrade \t:",grade)
+
